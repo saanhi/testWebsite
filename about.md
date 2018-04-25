@@ -10,3 +10,6 @@ header-img: "img/about-bg.jpg"
 *sdfsdf* 
 asdasd
 == bla bla bla bla bla ==
+
+
+!["this is the alternative text"](/img/ORG_DSC01059.jpg)
