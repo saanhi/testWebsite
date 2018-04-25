@@ -12,4 +12,4 @@ asdasd
 == bla bla bla bla bla ==
 
 
-!["this is the alternative text"](/img/ORG_DSC01059.jpg)
+!["this is the alternative text"](/img/lam.jpg)
